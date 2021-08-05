@@ -9,10 +9,6 @@
 
 - ⚡ Fun fact **Je pense, je suis drôle**
 
-<a href="https://www.youtube.com/channel/UCTvZYG4zXLuLa6jbYpEqMWw">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCTvZYG4zXLuLa6jbYpEqMWw&key=y6w8-cztc-yg15-vx0m-bxx4"/>
-</a>
-
 <h3 align="left">Connectez moi:</h3>
 <p align="left">
 <a href="https://instagram.com/stealsenseitv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stealsenseitv" height="30" width="40" /></a>
