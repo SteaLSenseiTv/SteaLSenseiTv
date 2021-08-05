@@ -11,5 +11,5 @@ Quand je ne code ou configure pas, j'aime jouer à minecraft avec pote ou à fai
 
 Si vous aimez ce que je fait, vous pouvez me faire un don sur utip et tipeeestream 🥺👉👈
 
-<a href="https://www.utip.io/stealsenseitv" target="_blank"><img src="https://github.com/StealCodeSensei/stealcodesenseitv/tree/main/img/utip.png" alt="SteaLCodeSenseiTv sur uTip" width="24"></a>
-<a href="https://www.tipeeestream.com/stealcodesensei/donation" target="_blank"><img src="https://github.com/StealCodeSensei/stealcodesenseitv/tree/main/img/tipeestream.png" alt="SteaLCodeSenseiTv sur TipeeeStream" width="24"></a>
+<a href="https://www.utip.io/stealsenseitv" target="_blank"><alt="SteaLCodeSenseiTv sur uTip"></a>
+<a href="https://www.tipeeestream.com/stealcodesensei/donation" target="_blank"><alt="SteaLCodeSenseiTv sur TipeeeStream"></a>
