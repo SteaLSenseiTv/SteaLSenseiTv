@@ -1,4 +1,4 @@
-![SteaLSenseiTv](https://github.com/StealCodeSensei/stealcodesenseitv/tree/main/img/Yo.png)
+![SteaLSenseiTv](https://github.com/StealCodeSensei/stealcodesenseitv/tree/main/header.png)
 
 ## SteaLSenseiTv
 
