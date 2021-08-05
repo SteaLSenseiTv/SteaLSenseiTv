@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Je pense, je suis drôle**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectez moi:</h3>
 <p align="left">
 <a href="https://instagram.com/stealsenseitv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stealsenseitv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/stealcodesenseitv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stealcodesenseitv" height="30" width="40" /></a>
